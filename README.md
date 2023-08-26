@@ -1,4 +1,6 @@
-# A Javascript & HTML Matrix Calculator
+# Matrix Calculator
+
+<img align="right" style="width:300px; height:auto;" src="https://github.com/ElenaChes/JavaScript-HTML-Matrix-Calculator/assets/54331769/45f11faf-46cc-4ab9-84d2-5da1b1cb2d18">
 
 A college project in JavaScript and HTML.<br>
 Description: calculates the determinant (solution) of a Matrix up to size 4x4.
