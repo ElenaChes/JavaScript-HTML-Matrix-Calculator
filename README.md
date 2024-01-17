@@ -5,6 +5,15 @@
 A college project in JavaScript and HTML.<br>
 Description: calculates the determinant (solution) of a Matrix up to size 4x4.
 
+<details>
+  <summary><h3>Content</h3></summary>
+
+- [Installation](#installation)
+- [Usage](#usage)
+
+</details>
+<hr>
+
 # Installation
 
 1. Open `Math.html` in your preferred browser.
